@@ -3,28 +3,47 @@
 ---
 
 ## 🛠 **About Me**  
-💻 Software Engineering Student <br>
+💻 Software Engineering Student at UNIASSELVI <br>
 🚀 Focused on Back-End Development <br>
-🗄️ Experience with SQL and Databases <br>
-📚 Currently improving my skills in C# and system development <br>
-🎯 Always learning and building new projects  
+📚 Knowledge in Web Development and Programming <br>
+🏢 Experience helping in family business with organization and technology <br>
+🎯 Looking for my first professional opportunity in tech  
 
 ---
 
 ## 🌐 **Connect with Me**  
 <p align="center">
   <a href="https://github.com/Luis-H099" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-%2312100E?style=flat&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-GitHub-%2312100E?style=flat&logo=github&logoColor=white" />
   </a>
-  <!-- Se quiser, posso adicionar LinkedIn/Instagram depois -->
+  <a href="https://www.linkedin.com/in/luis-henrique-53b2193b4/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:luis51henrique@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 🛠 **Tech Stack**  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,cs,mysql,dotnet" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,mysql,git" />
 </p>
+
+---
+
+## 📚 **Education**  
+🎓 Software Engineering (Currently studying) – UNIASSELVI <br>
+📖 High School (2023–2025)  
+
+---
+
+## 💡 **Skills**  
+✔️ Teamwork  
+✔️ Organization  
+✔️ Fast learning  
+✔️ Strong interest in technology  
 
 ---
 
@@ -36,15 +55,9 @@
 
 ---
 
-## 🚀 **Projects**  
-📌 Here are some of my projects available on GitHub:  
-🔗 https://github.com/Luis-H099  
-
----
-
-## 🎯 **Goals**  
-🔥 Become a professional Back-End Developer  
-📈 Keep evolving in software engineering  
-💡 Build real-world systems and scalable applications  
+## 🚀 **Goals**  
+🔥 Get my first job in technology  
+📈 Improve my programming and back-end skills  
+💡 Build real-world projects and systems  
 
 ---
